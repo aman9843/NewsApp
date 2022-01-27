@@ -1,3 +1,8 @@
+
+**(News app will not rendered news beacuse api is used from News Api Website so there are some polices that news will only fetch on localhost server not on any live server)**
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
